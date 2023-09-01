@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdelrahmanzaki747@gamil.com**
 
-<img  align="right" alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
