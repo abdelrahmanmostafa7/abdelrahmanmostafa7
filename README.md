@@ -32,14 +32,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![ٌReact](https://img.shields.io/badge/-React-%231572B6?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Node](https://img.shields.io/badge/-Node-%231572B6?style=flat-square&logo=node.js&backgroundColor=fff&logoColor=17594A)
 ![Epress](https://img.shields.io/badge/-Express-%231572B6?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%231572B6?style=flat-square&logo=mongoDB)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 
 <!-- ### Stats
