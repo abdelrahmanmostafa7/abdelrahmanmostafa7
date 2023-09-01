@@ -26,7 +26,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="280">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +36,4 @@
 <a href="https://www.leetcode.com/abdomostafa949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdomostafa949" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" /></p>
+<p><img align="left"  width="450" height="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" /></p>
