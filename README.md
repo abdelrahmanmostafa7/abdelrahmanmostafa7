@@ -34,7 +34,8 @@
 <a href="https://www.leetcode.com/abdomostafa949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdomostafa949" height="30" width="40" /></a>
 </p>
 
-<p><img align="left"  width="450" height="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" /></p>
+<p><img align="left"  width="450" height="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="280">
+</p>
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="250" border-radius="5">
