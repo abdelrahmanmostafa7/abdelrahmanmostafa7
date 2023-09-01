@@ -8,6 +8,7 @@
 - 📫 How to reach me **abdelrahmanzaki747@gamil.com**
   
 <img  align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
