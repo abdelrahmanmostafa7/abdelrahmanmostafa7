@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdelrahmanzaki747@gamil.com**
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
