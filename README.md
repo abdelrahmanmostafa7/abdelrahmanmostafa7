@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
-<h3 align="center">I 'm Full Stack developer from Egypt</h3>
+<h3 align="center">I 'm MERN Stack developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Website , MERN stack**
 
 - 📫 How to reach me **abdelrahmanzaki747@gamil.com**
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/boyka_amz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boyka_amz" height="30" width="40" /></a>
