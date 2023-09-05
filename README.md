@@ -32,7 +32,7 @@
 
 
 <p><img align="left"  width="400" height="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" />
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="250">
 </p>
 
 
