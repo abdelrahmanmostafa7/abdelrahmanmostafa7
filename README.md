@@ -31,7 +31,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 
-<p><img align="left"  width="400" height="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" />
+<p><img align="left"  width="400" height="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmostafa7&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmostafa7" />
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="250">
 </p>
 
