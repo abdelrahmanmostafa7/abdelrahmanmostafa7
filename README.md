@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mostafa Zaki</h1>
 
 <h2 align="center">I am a Full Stack developer specializing in the MERN stack </h2>
 <h3>I have created numerous websites and worked on various projects. I am passionate about problem-solving and enjoy tackling coding challenges. My goal is to build innovative and user-friendly web applications that provide seamless experiences. Constantly seeking to expand my skill set, I am always learning and exploring new technologies. Feel free to explore my repositories to see some of my projects and code snippets.</h3>
